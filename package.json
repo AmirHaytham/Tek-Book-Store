@@ -7,7 +7,8 @@
   "scripts": {
     "test": "grunt test",
     "build": "grunt build",
-    "all": "npm run build && npm run test"
+    "all": "npm run build && npm run test",
+    "start": "node server.js"
   },
   "dependencies": {
     "construx": "^1.0.0",
@@ -17,7 +18,7 @@
     "dust-makara-helpers": "^4.1.2",
     "dustjs-helpers": "^1.7.3",
     "eslint": "^1.10.3",
-    "express": "^4.12.2",
+    "express": "^4.17.1",
     "kraken-js": "^1.0.3",
     "makara": "^2.0.3",
     "requirejs": "^2.1.22"
@@ -35,6 +36,20 @@
     "grunt-makara-amdify": "^1.0.1",
     "grunt-mocha-cli": "^1.14.0",
     "mocha": "^1.18.0",
+    "nodemon": "^2.0.4",
     "supertest": "^0.9.0"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-me-projects/Book-Store.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-me-projects/Book-Store/issues"
+  },
+  "homepage": "https://github.com/node-me-projects/Book-Store#readme"
 }
