@@ -1,1 +1,4 @@
-# Book-Store
+TekBooks
+===========
+
+Simple technology book store
