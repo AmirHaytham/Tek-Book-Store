@@ -1,4 +1,3 @@
-TekBooks
-===========
+Tek Books
 
-Simple technology book store
+A Simple technology book store
