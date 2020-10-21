@@ -1,3 +1,3 @@
 # Tek Books
 
-A Simple technology book store
+A Simple tech books API
