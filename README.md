@@ -1,3 +1,3 @@
 # Tek Books
 
-A Simple tech books API
+A tech books API 
